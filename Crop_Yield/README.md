@@ -1,4 +1,4 @@
-# Crop Yield Prediction Regression Project
+# Crop Yield Prediction
 
 ## Project Overview
 This project aims to predict crop yield using regression models based on various features such as weather conditions, soil quality, crop type, and farming practices. By accurately predicting crop yield, farmers and agricultural stakeholders can make informed decisions to optimize resource allocation and maximize productivity.
