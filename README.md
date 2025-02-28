@@ -10,6 +10,9 @@ Welcome to the Regression Projects Repository! This repository houses various re
 ### 2. Electricity Bill Prediction
 **Brief Description**: This project focuses on predicting monthly electricity bills for residential and commercial consumers based on features like location, types of appliances used, and the electricity provider. It helps users plan their expenses better and identify potential areas for energy savings.
 
+### 3. AQI Prediction
+**Brief Description**: This project predicts the Air Quality Index (AQI) using machine learning models based on environmental factors like pollutant concentrations, weather conditions, and geographic data. It helps individuals and organizations take proactive measures to mitigate health risks and improve air quality management.
+
 ## Objectives
 - Develop accurate regression models for various prediction tasks.
 - Identify and analyze key features that significantly impact the outcomes.
@@ -19,11 +22,13 @@ Welcome to the Regression Projects Repository! This repository houses various re
 ## Key Features
 - **Crop Yield Prediction**: Weather conditions, rainfall, crop type, crop season, historical yield data.
 - **Electricity Bill Prediction**: Location, appliances, electricity providers, historical billing data, seasonal factors.
+- **AQI Prediction**: PM2.5, PM10, NO2, SO2, CO, O3 levels, Location, altitude.
 
 ## Data Collection
 Each project includes datasets with relevant features:
 - **Crop Yield Prediction**: Crop name, year, season, state, area, production, annual rainfall, fertilizer use, pesticide use, yield.
 - **Electricity Bill Prediction**: Location, appliances, electricity provider, historical billing data, weather data.
+- **AQI Prediction**: Location, Pollutant concentration
 
 ## Methodology
 1. **Data Preprocessing**: Clean and preprocess the collected data, handling missing values, outliers, and normalizing the data.
