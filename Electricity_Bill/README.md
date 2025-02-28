@@ -1,4 +1,4 @@
-# Electricity Bill Prediction Regression Model
+# Electricity Bill Prediction
 
 ## Project Overview
 The Electricity Bill Prediction Regression Model is designed to forecast the monthly electricity bills for residential and commercial consumers based on various features such as location, types of appliances used, and the electricity provider. This project aims to provide users with an accurate estimate of their future electricity expenses, enabling better financial planning and energy consumption management.
